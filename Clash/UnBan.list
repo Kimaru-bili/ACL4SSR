@@ -42,5 +42,5 @@ DOMAIN,rewards.hypixel.net
 DOMAIN-SUFFIX,koodomobile.com
 DOMAIN-SUFFIX,koodomobile.ca
 
-#jsdelivr.net
+# Jsdelivr.net
 DOMAIN-SUFFIX,jsdelivr.net
