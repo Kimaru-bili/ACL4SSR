@@ -13,6 +13,13 @@ DOMAIN-SUFFIX,googletraveladservices.com
 # Mozilla
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
 
+# Koodo Mobile
+DOMAIN-SUFFIX,koodomobile.com
+DOMAIN-SUFFIX,koodomobile.ca
+
+# Jsdelivr
+DOMAIN-SUFFIX,jsdelivr.net
+
 # Origin
 DOMAIN,origin-a.akamaihd.net
 
@@ -22,6 +29,9 @@ DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com
 
 # Strava
+
+# Hypixel Network
+DOMAIN,rewards.hypixel.net
 
 # Umeng
 DOMAIN,errlog.umeng.com
@@ -34,13 +44,3 @@ DOMAIN,tracking.miui.com
 # General
 DOMAIN,app.adjust.com
 DOMAIN,bdtj.tagtic.cn
-
-# Hypixel Network
-DOMAIN,rewards.hypixel.net
-
-# Koodo Mobile
-DOMAIN-SUFFIX,koodomobile.com
-DOMAIN-SUFFIX,koodomobile.ca
-
-# Jsdelivr
-DOMAIN-SUFFIX,jsdelivr.net
